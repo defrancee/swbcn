@@ -1,3 +1,2 @@
 mediapipe
-svglib
 fvcore
